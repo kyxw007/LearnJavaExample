@@ -1,0 +1,30 @@
+{
+  "analysisid":"UIDDHO7878HUO6772",
+  "analysisname":"注册资金多维分析",
+  "remark":"所属区域-注册时间-注册类型",
+  "facttable":{
+      "metric":[
+        {
+        "metricid":"MID783132910UGYde",
+        "metricname":"注册资金",
+        "mongotag":"desc.registeredfund"
+        }
+      ],
+    "dimension":[
+      {
+        "dimensionid":"DI4ggr1erw2910UGYde",
+        "dimensionname":"注册时间",
+        "mongotag":"desc.registertime"
+      },{
+        "dimensionid":"DIDsa325k2345689ds8",
+        "dimensionname":"所属地区",
+        "mongotag":"desc.regisarea"
+      },{
+        "dimensionid":"DIDdafjio2dai212338",
+        "dimensionname":"注册类型",
+        "mongotag":"desc.registertype"
+      }
+    ]
+  }
+}
+

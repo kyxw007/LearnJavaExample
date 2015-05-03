@@ -1,0 +1,6 @@
+{
+  "dimensionid":"DI4ggr1erw2910UGYde",
+  "dimensionname":"注册时间",
+  "rdbstable":"TimeTable",
+  "mainkey":"timeID"
+}
