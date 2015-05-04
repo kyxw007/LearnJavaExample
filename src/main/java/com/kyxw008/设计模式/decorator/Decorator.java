@@ -17,7 +17,7 @@ public class Decorator implements Human {
         human.walk();
     }
 
-    public void setHuman(Human human){
+    public Decorator(Human human){
         this.human = human;
     }
 }
